@@ -32,5 +32,8 @@ public class Service {
             arr[i] = String.valueOf(mas[i]);
         }
 
+
+        scanner.close();
+
     }
 }
